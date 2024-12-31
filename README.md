@@ -19,6 +19,13 @@ Je suis un développeur passionné. J'adore résoudre des problèmes et créer d
 
 ---
 
+## 📸 Quelques aperçus de mes projets
+
+### Page d'accueil de BiblioTracker
+![BookTracker-Accueil](https://github.com/user-attachments/assets/fa80e950-fe4d-4e80-9e42-c7219d7f12b7)
+
+---
+
 ## 📬 Contactez-moi
 - **Email :** pro.valentin.hamon@gmail.com
 - **LinkedIn :** www.linkedin.com/in/valh-code
