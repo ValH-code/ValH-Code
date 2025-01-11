@@ -29,6 +29,6 @@ Je suis un développeur passionné. J'adore résoudre des problèmes et créer d
 ## 📬 Contactez-moi
 - **Email :** pro.valentin.hamon@gmail.com
 - **LinkedIn :** www.linkedin.com/in/valh-code
-- **Portfolio :** En cours
+- **Portfolio :** https://valh-code.netlify.app/
 
 Merci d'avoir visité mon profil ! ✨
